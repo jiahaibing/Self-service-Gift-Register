@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">礼账记录</string>
+    <string name="add_gift">添加礼账</string>
+    <string name="edit_gift">编辑礼账</string>
+    <string name="delete">删除</string>
+    <string name="save">保存</string>
+    <string name="cancel">取消</string>
+    <string name="search">搜索</string>
+    <string name="clear">清空</string>
+    <string name="no_data">暂无数据</string>
+    <string name="gift_from">礼品来自</string>
+    <string name="gift_item">礼品内容</string>
+    <string name="gift_amount">金额（元）</string>
+    <string name="gift_date">日期</string>
+    <string name="gift_notes">备注</string>
+    <string name="edit">编辑</string>
+    <string name="detail">详情</string>
+    <string name="delete_confirm">确定要删除此记录吗？</string>
+    <string name="delete_success">删除成功</string>
+    <string name="save_success">保存成功</string>
+    <string name="input_error">请填写所有必填项</string>
+    <string name="total_amount">总金额：</string>
+    <string name="yuan">元</string>
+</resources>
